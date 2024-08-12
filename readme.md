@@ -8,3 +8,5 @@
 23 June 2024 - 1248. Count number of nuce sub arrays
 1 July 2024 - 1550. Three Consecutive Odds
 7 August 2024 - 2053. Kth Distinct String in Array
+9 August 2024 - 885. Spiral Matrix III
+10 August 2024 - 840. Magic Squares in Grid
